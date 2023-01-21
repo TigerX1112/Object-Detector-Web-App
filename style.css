@@ -14,3 +14,21 @@ a{
     padding: 15px;
     color: cadetblue;
 }
+h2{
+    background-color: cadetblue;
+    color: aqua;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px cadetblue solid;
+    border-radius: 20px;
+}
+h3{
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+canvas{
+    border: 2px black dashed;
+    border-radius: 20px;
+    box-shadow: 5px, 5px, 5px, grey;
+}
